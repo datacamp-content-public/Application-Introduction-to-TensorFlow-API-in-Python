@@ -58,3 +58,16 @@ The instructions that follow should be in bullet point form with clear guidance 
 # Update this to something more informative.
 success_msg("Some praise! Then reinforce a learning objective from the exercise.")
 ```
+
+---
+
+## Understanding Basics of TensorFlow
+
+```yaml
+type: VideoExercise
+key: 09d6c44fc6
+xp: 50
+```
+
+`@projector_key`
+a730c3b26290140804d9f363719a218c

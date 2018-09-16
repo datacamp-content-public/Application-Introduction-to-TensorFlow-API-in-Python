@@ -61,7 +61,7 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 
 ---
 
-## Understanding Basics of TensorFlow
+## Introduction to TensorFlow API in Python
 
 ```yaml
 type: VideoExercise
